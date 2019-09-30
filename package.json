@@ -1,0 +1,24 @@
+{
+  "name": "graphics-design",
+  "version": "0.1.0",
+  "description": "一些有趣的图形设计。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paper520/graphics-design.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paper520/graphics-design/issues"
+  },
+  "homepage": "https://github.com/paper520/graphics-design#readme",
+  "dependencies": {
+    "@yelloxing/normalize.css": "^0.2.1",
+    "image2d": "^1.4.6",
+    "image3d": "^1.0.1"
+  }
+}
